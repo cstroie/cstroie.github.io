@@ -5,16 +5,16 @@ Source of https://cstroie.github.io/, a landing page for these browser-based pro
 
 Retro computing:
 
-- [BASIC-40](https://github.com/cstroie/basic): an 8-bit style BASIC interpreter
+- [BASIC-40](https://github.com/cstroie/BASIC-40): an 8-bit style BASIC interpreter
 - [RPN-4](https://github.com/cstroie/RPN-4): an HP-style RPN scientific calculator, with an HP-12C style landscape layout on phones
-- [JSForth](https://github.com/cstroie/forth): a small, mostly standard Forth
+- [FORTH-79](https://github.com/cstroie/FORTH-79): a small, mostly standard Forth
 - [DigitalRerun](https://github.com/cstroie/DigitalRerun): a CP/M 2.2 computer with a Z80 and a VT100 or ADM-3A screen
 
 Medical imaging:
 
 - [IRIS](https://github.com/cstroie/GIRI): a searchable guide to radiology imaging indications, in Romanian (hosted in this repo under `/iris/`)
 
-The other projects publish their own GitHub Pages sites under `/basic/`, `/RPN-4/`, `/forth/` and `/DigitalRerun/`.
+The other projects publish their own GitHub Pages sites under `/BASIC-40/`, `/RPN-4/`, `/FORTH-79/` and `/DigitalRerun/`.
 
 ## Notes
 
